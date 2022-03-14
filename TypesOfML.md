@@ -1,14 +1,15 @@
 # Types of Machine Learning
-Machine Learning can be categorized in many ways. First, let's look at how the models are trained.
 1. Supervised Learning
   * __Categorization__ (Discrete Data)
   * __Regression__ (Continuous Data)
   * Important supervised learning algorithms
-    * k-Nearest Neighbors
     * Linear Regression
+    * Gradient Descent
     * Logistic Regression
+    * k-Nearest Neighbors
     * Support Vector Machines (SVMs)
     * Decision Trees and Random Forests
+    * Ensemble Learning
     * Neural Networks
 2. Unsupervised Learning
   * __Clustering__ (Discrete Data)

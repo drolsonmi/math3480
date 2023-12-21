@@ -7,4 +7,4 @@ You are welcome to keep a copy of these notes for your own reference after class
 If you have any questions, or if you note any problems with these notes, feel free to let me know and I can take a look. Have fun this semester!
 
 -- Dr. Michael E. Olson
--- GRSC 332
+-- Noyes 102D

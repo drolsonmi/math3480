@@ -1,6 +1,6 @@
 # Textbooks and Resources
 ### Required Textbooks and Resources
-In this class, we will focus most of our attention on the following books:
+In this class, we will focus most of our attention on the following book:
 
 * \* Geron, Aurelien, [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/), 3rd Edition, 2022.
 

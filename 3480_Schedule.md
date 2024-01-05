@@ -3,7 +3,6 @@ These are the topics that we plan to cover this semester:
 * Exploratory Data Analysis
 * Data Validation
 * Natural Language Processing
-  * 
   * Language Learning Models
   * ChatGPT
   * Ethics
@@ -12,11 +11,11 @@ Following is my planned schedule for the course. It is incomplete at this point,
 
 | Date   | Lecture                       | Reading    |
 | :----- | :------                       | :------    |
-| Jan 8  |                               |            |
-| Jan 10 |                               |            |
-| Jan 12 |                               |            |
+| Jan 8  | Introduction to Data Science and Machine Learning |  |
+| Jan 10 | Review: Load and Clean Data   |            |
+| Jan 12 | Review: Exploratory Data Analysis |            |
 | Jan 15 | *MLK Jr. Day - No School*     |            |
-| Jan 17 |                               |            |
+| Jan 17 | Cross Validation and Evaluation |            |
 | Jan 19 |                               |            |
 | Jan 22 |                               |            |
 | Jan 24 |                               |            |

@@ -1,9 +1,21 @@
 # Math 3480 Course Schedule - Spring 2024
 These are the topics that we plan to cover this semester:
 * Exploratory Data Analysis
+* Types of Machine Learning
 * Data Validation
+* Models
+  * Linear Regression
+  * Polynomial Regression
+  * Lasso Regression
+  * Support Vector Machines (SVMs)
+  * Decision Trees and Random Forests
+  * K-Means
+  * DBSCAN
+  * Gaussian Mixture Models
 * Natural Language Processing
+  * 
   * Language Learning Models
+* Generative AI
   * ChatGPT
   * Ethics
 

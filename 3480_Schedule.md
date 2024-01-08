@@ -27,8 +27,8 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 10 | Review: Load and Clean Data   |            |
 | Jan 12 | Review: Exploratory Data Analysis |            |
 | Jan 15 | *MLK Jr. Day - No School*     |            |
-| Jan 17 | Cross Validation and Evaluation |            |
-| Jan 19 |                               |            |
+| Jan 17 | Types of Machine Learning     |            |
+| Jan 19 | Cross Validation and Evaluation |            |
 | Jan 22 |                               |            |
 | Jan 24 |                               |            |
 | Jan 26 |                               |            |

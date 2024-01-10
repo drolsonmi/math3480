@@ -13,7 +13,6 @@ These are the topics that we plan to cover this semester:
   * DBSCAN
   * Gaussian Mixture Models
 * Natural Language Processing
-  * 
   * Language Learning Models
 * Generative AI
   * ChatGPT

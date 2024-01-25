@@ -27,9 +27,9 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 12 | Review: Cleaning Data & Data Wrangling            |                                            |
 | Jan 15 | *MLK Jr. Day - No School*                         |                                            |
 | Jan 17 | Review: Exploratory Data Analysis (EDA)           |                                            |
-| Jan 19 | Review: Exploratory Data Analysis (EDA)           |                                            |
-| Jan 22 | Types of Machine Learning                         |                                            |
-| Jan 24 | Cross Validation and Evaluation                   |                                            |
+| Jan 19 | Types of Machine Learning                         |                                            |
+| Jan 22 | Data Preprocessing                                |                                            |
+| Jan 24 | More Preprocessing and Feature Scaling            |                                            |
 | Jan 26 |                                                   |                                            |
 | Jan 29 |                                                   |                                            |
 | Jan 31 |                                                   |                                            |

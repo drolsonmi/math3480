@@ -46,10 +46,10 @@ To see details about the course schedule, click on the Course Schedule link on t
 ## Grading Policy
 | Assignment   | Percentage of Grade |
 | :----------- | :-----------------: |
-| Homework     | 25%                 |
-| Projects     | 65%                 |
-| Midterm Exam | 20%                 |
-| Final Exam   | 20%                 |
+| Homework     | 20%                 |
+| Projects     | 50%                 |
+| Midterm Exam | 15%                 |
+| Final Exam   | 15%                 |
 
 1. __Homework__ will be assigned occasionally throughout the course to give practice in Machine Learning techniques.
 2. __Projects__ will be assigned to challenge the student and to check the student's understanding of the material.

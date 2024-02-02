@@ -23,23 +23,26 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Date   | Lecture                                           | Reading                                    |
 | :----- | :--------------------------                       | :--------------------------------------    |
 | Jan 8  | Introduction to Data Science and Machine Learning |                                            |
+|        | __*----- Review -----*__                          |                                            |
 | Jan 10 | Review: Data Handling                             | Geron, Chapter 2<br>McKinney, Chapters 7-8 |
 | Jan 12 | Review: Cleaning Data & Data Wrangling            |                                            |
 | Jan 15 | *MLK Jr. Day - No School*                         |                                            |
+|        | __*----- Preprocessing -----*__                   |                                            |
 | Jan 17 | Review: Exploratory Data Analysis (EDA)           |                                            |
 | Jan 19 | Types of Machine Learning                         |                                            |
 | Jan 22 | Data Preprocessing                                |                                            |
 | Jan 24 | More Preprocessing and Feature Scaling            |                                            |
-| Jan 26 |                                                   |                                            |
-| Jan 29 |                                                   |                                            |
-| Jan 31 |                                                   |                                            |
-| Feb 2  |                                                   |                                            |
-| Feb 5  |                                                   |                                            |
-| Feb 7  |                                                   |                                            |
-| Feb 9  |                                                   |                                            |
-| Feb 12 |                                                   |                                            |
-| Feb 14 |                                                   |                                            |
-| Feb 16 |                                                   |                                            |
+| Jan 26 | Evaluation                                        |                                            |
+|        | __*----- Common Machine Learning Models -----*__  |                                            |
+| Jan 29 | Naive Bayes                                       |                                            |
+| Jan 31 | k-Nearest Neighbors                               |                                            |
+| Feb 2  | Support Vector Classifiers                        | Geron, Chapter 5                           |
+| Feb 5  | Support Vector Machines                           | Geron, Chapter 5                           |
+| Feb 7  | Decision Trees                                    |                                            |
+| Feb 9  | Random Forests                                    |                                            |
+| Feb 12 | __Supervised Classifier Project__                 |                                            |
+| Feb 14 | Linear/Logical Regression                         |                                            |
+| Feb 16 | Gaussian Mixture Models                           |                                            |
 | Feb 19 | *President's Day - No School*                     |                                            |
 | Feb 21 |                                                   |                                            |
 | Feb 26 |                                                   |                                            |

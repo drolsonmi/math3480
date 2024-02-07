@@ -37,14 +37,14 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 29 | Naive Bayes                                       |                                            |
 | Jan 31 | k-Nearest Neighbors                               |                                            |
 | Feb 2  | Support Vector Classifiers                        | Geron, Chapter 5                           |
-| Feb 5  | Support Vector Machines                           | Geron, Chapter 5                           |
-| Feb 7  | Decision Trees                                    |                                            |
-| Feb 9  | Random Forests                                    |                                            |
-| Feb 12 | __Supervised Classifier Project__                 |                                            |
-| Feb 14 | Linear/Logical Regression                         |                                            |
-| Feb 16 | Gaussian Mixture Models                           |                                            |
+| Feb 5  | ----- | |
+| Feb 7  | Support Vector Machines                           | Geron, Chapter 5                           |
+| Feb 9  | Decision Trees                                    |                                            |
+| Feb 12 | Random Forests                                    |                                            |
+| Feb 14 | __Supervised Classifier Project__                 |                                            |
+| Feb 16 | Linear/Logical Regression                         |                                            |
 | Feb 19 | *President's Day - No School*                     |                                            |
-| Feb 21 |                                                   |                                            |
+| Feb 21 | Gaussian Mixture Models                           |                                            |
 | Feb 26 |                                                   |                                            |
 | Feb 23 |                                                   |                                            |
 | Feb 28 |                                                   |                                            |

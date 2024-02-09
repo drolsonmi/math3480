@@ -37,16 +37,16 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 29 | Naive Bayes                                       |                                            |
 | Jan 31 | k-Nearest Neighbors                               |                                            |
 | Feb 2  | Support Vector Classifiers                        | Geron, Chapter 5                           |
-| Feb 5  | ----- | |
+| Feb 5  | *Cancelled Class*                                 |                                            |
 | Feb 7  | Support Vector Machines                           | Geron, Chapter 5                           |
-| Feb 9  | Decision Trees                                    |                                            |
-| Feb 12 | Random Forests                                    |                                            |
+| Feb 9  | Neural Networks                                   |                                            |
+| Feb 12 | Deep Neural Networks                              |                                            |
 | Feb 14 | __Supervised Classifier Project__                 |                                            |
-| Feb 16 | Linear/Logical Regression                         |                                            |
+| Feb 16 | Decision Trees                                    |                                            |
 | Feb 19 | *President's Day - No School*                     |                                            |
-| Feb 21 | Gaussian Mixture Models                           |                                            |
-| Feb 26 |                                                   |                                            |
-| Feb 23 |                                                   |                                            |
+| Feb 21 | Random Forests                                    |                                            |
+| Feb 26 | Linear/Logical Regression                         |                                            |
+| Feb 23 | Gaussian Mixture Models                           |                                            |
 | Feb 28 |                                                   |                                            |
 | Mar 1  |                                                   |                                            |
 | Mar 4  | *Spring Break*                                    |                                            |

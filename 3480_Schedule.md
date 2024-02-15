@@ -41,19 +41,19 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Feb 7  | Support Vector Machines                           | Geron, Chapter 5                           |
 | Feb 9  | Neural Networks                                   |                                            |
 | Feb 12 | Deep Neural Networks                              |                                            |
-| Feb 14 | __Supervised Classifier Project__                 |                                            |
-| Feb 16 | Decision Trees                                    |                                            |
+| Feb 14 | *Sick - Cancelled Class*                          |                                            |
+| Feb 16 | Keras and TensorFlow                              |                                            |
 | Feb 19 | *President's Day - No School*                     |                                            |
-| Feb 21 | Random Forests                                    |                                            |
-| Feb 26 | Linear/Logical Regression                         |                                            |
-| Feb 23 | Gaussian Mixture Models                           |                                            |
-| Feb 28 |                                                   |                                            |
-| Mar 1  |                                                   |                                            |
+| Feb 21 | Decision Trees                                    |                                            |
+| Feb 23 | Random Forests                                    |                                            |
+| Feb 26 | __Supervised Classifier Project__                 |                                            |
+| Feb 28 | Review                                            |                                            |
+| Mar 1  | Midterm                                           |                                            |
 | Mar 4  | *Spring Break*                                    |                                            |
 | Mar 6  | *Spring Break*                                    |                                            |
 | Mar 8  | *Spring Break*                                    |                                            |
-| Mar 11 |                                                   |                                            |
-| Mar 13 |                                                   |                                            |
+| Mar 11 | Linear/Logical Regression                         |                                            |
+| Mar 13 | Gaussian Mixture Models                           |                                            |
 | Mar 15 |                                                   |                                            |
 | Mar 18 |                                                   |                                            |
 | Mar 20 |                                                   |                                            |
@@ -61,8 +61,9 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Mar 25 |                                                   |                                            |
 | Mar 27 |                                                   |                                            |
 | Mar 19 |                                                   |                                            |
-| Apr 1  |                                                   |                                            |
-| Apr 3  |                                                   |                                            |
+|        | __*----- Natural Language Processing -----*__     |                                            |
+| Apr 1  | Overview of NLP                                   |                                            |
+| Apr 3  | Regular Expressions                               |                                            |
 | Apr 5  |                                                   |                                            |
 | Apr 8  |                                                   |                                            |
 | Apr 10 |                                                   |                                            |

@@ -20,58 +20,66 @@ These are the topics that we plan to cover this semester:
 
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3480_Textbooks.md) page.
 
-| Date   | Lecture                                           | Reading                                    |
-| :----- | :--------------------------                       | :--------------------------------------    |
-| Jan 8  | Introduction to Data Science and Machine Learning |                                            |
-|        | __*----- Review -----*__                          |                                            |
-| Jan 10 | Review: Data Handling                             | Geron, Chapter 2<br>McKinney, Chapters 7-8 |
-| Jan 12 | Review: Cleaning Data & Data Wrangling            |                                            |
-| Jan 15 | *MLK Jr. Day - No School*                         |                                            |
-|        | __*----- Preprocessing -----*__                   |                                            |
-| Jan 17 | Review: Exploratory Data Analysis (EDA)           |                                            |
-| Jan 19 | Types of Machine Learning                         |                                            |
-| Jan 22 | Data Preprocessing                                |                                            |
-| Jan 24 | More Preprocessing and Feature Scaling            |                                            |
-| Jan 26 | Evaluation                                        |                                            |
-|        | __*----- Common Machine Learning Models -----*__  |                                            |
-| Jan 29 | Naive Bayes                                       |                                            |
-| Jan 31 | k-Nearest Neighbors                               |                                            |
-| Feb 2  | Support Vector Classifiers                        | Geron, Chapter 5                           |
-| Feb 5  | *Cancelled Class*                                 |                                            |
-| Feb 7  | Support Vector Machines                           | Geron, Chapter 5                           |
-| Feb 9  | Neural Networks                                   |                                            |
-| Feb 12 | Deep Neural Networks                              |                                            |
-| Feb 14 | *Sick - Cancelled Class*                          |                                            |
-| Feb 16 | Keras and TensorFlow                              |                                            |
-| Feb 19 | *President's Day - No School*                     |                                            |
-| Feb 21 | Decision Trees                                    |                                            |
-| Feb 23 | Random Forests                                    |                                            |
-| Feb 26 | __Supervised Classifier Project__                 |                                            |
-| Feb 28 | Review                                            |                                            |
-| Mar 1  | Midterm                                           |                                            |
-| Mar 4  | *Spring Break*                                    |                                            |
-| Mar 6  | *Spring Break*                                    |                                            |
-| Mar 8  | *Spring Break*                                    |                                            |
-| Mar 11 | Linear/Logical Regression                         |                                            |
-| Mar 13 | Gaussian Mixture Models                           |                                            |
-| Mar 15 |                                                   |                                            |
-| Mar 18 |                                                   |                                            |
-| Mar 20 |                                                   |                                            |
-| Mar 22 |                                                   |                                            |
-| Mar 25 |                                                   |                                            |
-| Mar 27 |                                                   |                                            |
-| Mar 19 |                                                   |                                            |
-|        | __*----- Natural Language Processing -----*__     |                                            |
-| Apr 1  | Overview of NLP                                   |                                            |
-| Apr 3  | Regular Expressions                               |                                            |
-| Apr 5  |                                                   |                                            |
-| Apr 8  |                                                   |                                            |
-| Apr 10 |                                                   |                                            |
-| Apr 12 |                                                   |                                            |
-| Apr 15 |                                                   |                                            |
-| Apr 17 |                                                   |                                            |
-| Apr 19 |                                                   |                                            |
-| Apr 22 |                                                   |                                            |
-| Apr 24 |                                                   |                                            |
-| Apr 26 |                                                   |                                            |
-| Apr 30 | Final Exam opens April 29, 5:00pm, due 24 hours after |                                        |
+|  Day  | Date   | Lecture                                           | Reading                                    |
+| :---: | :----- | :--------------------------                       | :--------------------------------------    |
+|   1   | Jan 8  | Introduction to Data Science and Machine Learning |                                            |
+|       |        | __*----- Review -----*__                          |                                            |
+|   2   | Jan 10 | Review: Data Handling                             | Geron, Chapter 2<br>McKinney, Chapters 7-8 |
+|   3   | Jan 12 | Review: Cleaning Data & Data Wrangling            |                                            |
+|   4   | Jan 15 | *MLK Jr. Day - No School*                         |                                            |
+|       |        | __*----- Preprocessing -----*__                   |                                            |
+|   5   | Jan 17 | Review: Exploratory Data Analysis (EDA)           |                                            |
+|   6   | Jan 19 | Types of Machine Learning                         |                                            |
+|   7   | Jan 22 | Data Preprocessing                                |                                            |
+|   8   | Jan 24 | More Preprocessing and Feature Scaling            |                                            |
+|   9   | Jan 26 | Evaluation                                        |                                            |
+|       |        | __*----- Common Machine Learning Models -----*__  |                                            |
+|  10   | Jan 29 | Naive Bayes                                       |                                            |
+|  11   | Jan 31 | k-Nearest Neighbors                               |                                            |
+|  12   | Feb 2  | Support Vector Classifiers                        | Geron, Chapter 5                           |
+|       | Feb 5  | *Cancelled Class*                                 |                                            |
+|  13   | Feb 7  | Support Vector Machines                           | Geron, Chapter 5                           |
+|  14   | Feb 9  | Neural Networks                                   |                                            |
+|  15   | Feb 12 | Deep Neural Networks                              |                                            |
+|       | Feb 14 | *Sick - Cancelled Class*                          |                                            |
+|  16   | Feb 16 | Keras and TensorFlow                              |                                            |
+|       | Feb 19 | *President's Day - No School*                     |                                            |
+|  17   | Feb 21 | Decision Trees                                    |                                            |
+|  18   | Feb 23 | Random Forests                                    |                                            |
+|  19   | Feb 26 |                                                   |                                            |
+|  20   | Feb 28 |                                                   |                                            |
+|  21   | Mar 1  |                                                   |                                            |
+|       | Mar 4  | *Spring Break*                                    |                                            |
+|       | Mar 6  | *Spring Break*                                    |                                            |
+|       | Mar 8  | *Spring Break*                                    |                                            |
+|  22   | Mar 11 | __Project__: Supervised Classifiers               |                                            |
+|  23   | Mar 13 | Review                                            |                                            |
+|  24   | Mar 15 | Midterm                                           |                                            |
+|  25   | Mar 18 | Linear/Logical Regression                         |                                            |
+|  26   | Mar 20 | Gaussian Mixture Models                           |                                            |
+|  27   | Mar 22 |                                                   |                                            |
+|  28   | Mar 25 |                                                   |                                            |
+|  29   | Mar 27 |                                                   |                                            |
+|  30   | Mar 19 |                                                   |                                            |
+|       |        | __*----- Natural Language Processing -----*__     |                                            |
+|  31   | Apr 1  | Overview of NLP                                   |                                            |
+|  32   | Apr 3  | Regular Expressions                               |                                            |
+|  33   | Apr 5  |                                                   |                                            |
+|  34   | Apr 8  |                                                   |                                            |
+|  35   | Apr 10 |                                                   |                                            |
+|  36   | Apr 12 |                                                   |                                            |
+|  37   | Apr 15 |                                                   |                                            |
+|  38   | Apr 17 |                                                   |                                            |
+|  39   | Apr 19 |                                                   |                                            |
+|  40   | Apr 22 |                                                   |                                            |
+|  41   | Apr 24 |                                                   |                                            |
+|  42   | Apr 26 |                                                   |                                            |
+|  43   | Apr 30 | Final Exam opens April 29, 5:00pm, due 24 hours after |                                        |
+
+
+## 22: Supervised Classifier Project
+* 
+
+## 23: Midterm Review
+* Discuss the project
+  * What models worked?

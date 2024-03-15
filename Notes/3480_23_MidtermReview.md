@@ -44,4 +44,17 @@
     * k-Nearest Neighbors
     * Support Vector Machines (SVM)
         * Support Vector Classifiers
-    * 
+        * SVMs - add an extra dimension
+    * Neural Networks
+        * Neurons
+        * Weights and biases
+        * Activation function
+        * Hidden Layers
+        * Depth (# of hidden layers) and Width (size of a layer)
+        * Backpropagation
+            * Stochastic Gradient Descent
+    * Decision Trees
+        * Entropy and Surprise
+        * Gini index
+        * Random Forests
+        * Bootstrapping and Bagging

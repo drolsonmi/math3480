@@ -54,10 +54,10 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |       | Mar 8  | *Spring Break*                                    |                                            |
 |  22   | Mar 11 | __Project__: Supervised Classifiers               |                                            |
 |  23   | Mar 13 | Review                                            |                                            |
-|  24   | Mar 15 | Midterm                                           |                                            |
-|  25   | Mar 18 | Linear/Logical Regression                         |                                            |
-|  26   | Mar 20 | Gaussian Mixture Models                           |                                            |
-|  27   | Mar 22 |                                                   |                                            |
+|  24   | Mar 15 | Review                                            |                                            |
+|  25   | Mar 18 | Midterm                                           |                                            |
+|  26   | Mar 20 | Linear/Logical Regression                         |                                            |
+|  27   | Mar 22 | Gaussian Mixture Models                           |                                            |
 |  28   | Mar 25 |                                                   |                                            |
 |  29   | Mar 27 |                                                   |                                            |
 |  30   | Mar 19 |                                                   |                                            |

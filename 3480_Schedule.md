@@ -56,25 +56,25 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |  23   | Mar 13 | Review                                            |                                            |
 |  24   | Mar 15 | Review                                            |                                            |
 |  25   | Mar 18 | Midterm                                           |                                            |
-|  26   | Mar 20 | Linear/Logical Regression                         |                                            |
-|  27   | Mar 22 | Gaussian Mixture Models                           |                                            |
-|  28   | Mar 25 |                                                   |                                            |
-|  29   | Mar 27 |                                                   |                                            |
-|  30   | Mar 19 |                                                   |                                            |
+|       | Mar 20 | *Nobody showed up to class*                       |                                            |
+|  26   | Mar 22 | Linear Regression                                 |                                            |
+|  27   | Mar 25 | Multi-linear and Polynomial Regression            |                                            |
+|  28   | Mar 27 | Logistic Regression                               |                                            |
+|  29   | Mar 29 | Gaussian Mixture Models                           |                                            |
+|  30   | Apr 1  |                                                   |                                            |
+|  31   | Apr 3  | DBSCAN                                            |                                            |
+|  32   | Apr 5  |                                                   |                                            |
 |       |        | __*----- Natural Language Processing -----*__     |                                            |
-|  31   | Apr 1  | Overview of NLP                                   |                                            |
-|  32   | Apr 3  | Regular Expressions                               |                                            |
-|  33   | Apr 5  |                                                   |                                            |
-|  34   | Apr 8  |                                                   |                                            |
-|  35   | Apr 10 |                                                   |                                            |
-|  36   | Apr 12 |                                                   |                                            |
-|  37   | Apr 15 |                                                   |                                            |
-|  38   | Apr 17 |                                                   |                                            |
-|  39   | Apr 19 |                                                   |                                            |
-|  40   | Apr 22 |                                                   |                                            |
-|  41   | Apr 24 |                                                   |                                            |
-|  42   | Apr 26 |                                                   |                                            |
-|  43   | Apr 30 | Final Exam opens April 29, 5:00pm, due 24 hours after |                                        |
+|  33   | Apr 8  | Overview of NLP                                   |                                            |
+|  34   | Apr 10 | Regular Expressions                               |                                            |
+|  35   | Apr 12 |                                                   |                                            |
+|  36   | Apr 15 |                                                   |                                            |
+|  37   | Apr 17 |                                                   |                                            |
+|  38   | Apr 19 |                                                   |                                            |
+|  39   | Apr 22 |                                                   |                                            |
+|  40   | Apr 24 |                                                   |                                            |
+|  41   | Apr 26 |                                                   |                                            |
+|  42   | Apr 30 | Final Exam opens April 29, 5:00pm, due 24 hours after |                                        |
 
 
 ## 22: Supervised Classifier Project

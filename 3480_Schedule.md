@@ -61,20 +61,20 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |  27   | Mar 25 | Multi-linear and Polynomial Regression            |                                            |
 |  28   | Mar 27 | Logistic Regression                               |                                            |
 |  29   | Mar 29 | Gaussian Mixture Models                           |                                            |
-|  30   | Apr 1  |                                                   |                                            |
-|  31   | Apr 3  | DBSCAN                                            |                                            |
-|  32   | Apr 5  |                                                   |                                            |
+|  30   | Apr 1  | Gaussian Mixture Models                           |                                            |
+|  31   | Apr 3  | __Project__: Supervised Regressors                |                                            |
+|  32   | Apr 5  | k-Means and Hierarchical Clustering               |                                            |
+|  33   | Apr 8  | DBSCAN                                            |                                            |
+|  34   | Apr 10 |                                                   |                                            |
 |       |        | __*----- Natural Language Processing -----*__     |                                            |
-|  33   | Apr 8  | Overview of NLP                                   |                                            |
-|  34   | Apr 10 | Regular Expressions                               |                                            |
-|  35   | Apr 12 |                                                   |                                            |
-|  36   | Apr 15 |                                                   |                                            |
+|  35   | Apr 12 | Overview of NLP                                   |                                            |
+|  36   | Apr 15 | Regular Expressions                               |                                            |
 |  37   | Apr 17 |                                                   |                                            |
 |  38   | Apr 19 |                                                   |                                            |
 |  39   | Apr 22 |                                                   |                                            |
 |  40   | Apr 24 |                                                   |                                            |
 |  41   | Apr 26 |                                                   |                                            |
-|  42   | Apr 30 | Final Exam opens April 29, 5:00pm, due 24 hours after |                                        |
+|       | Apr 30 | Final Exam opens April 29, 5:00pm, due 24 hours after |                                        |
 
 
 ## 22: Supervised Classifier Project

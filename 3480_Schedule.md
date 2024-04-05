@@ -63,7 +63,7 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |  29   | Mar 29 | Gaussian Mixture Models                           |                                            |
 |  30   | Apr 1  | Gaussian Mixture Models                           |                                            |
 |  31   | Apr 3  | __Project__: Supervised Regressors                |                                            |
-|  32   | Apr 5  | k-Means and Hierarchical Clustering               |                                            |
+|  32   | Apr 5  | k-Means and the Elbow Method                      |                                            |
 |  33   | Apr 8  | DBSCAN                                            |                                            |
 |  34   | Apr 10 | __Project__: Supervised Clustering                |                                            |
 |       |        | __*----- Natural Language Processing -----*__     |                                            |

@@ -65,13 +65,13 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |  31   | Apr 3  | __Project__: Supervised Regressors                |                                            |
 |  32   | Apr 5  | k-Means and the Elbow Method                      |                                            |
 |  33   | Apr 8  | DBSCAN                                            |                                            |
-|  34   | Apr 10 | __Project__: Supervised Clustering                |                                            |
 |       |        | __*----- Natural Language Processing -----*__     |                                            |
-|  35   | Apr 12 | Overview of NLP                                   |                                            |
-|  36   | Apr 15 | Regular Expressions                               |                                            |
-|  37   | Apr 17 | Bag of Words model                                |                                            |
+|  34   | Apr 10 | Overview of NLP                                   |                                            |
+|  35   | Apr 12 | Regular Expressions                               |                                            |
+|  36   | Apr 15 | Bag of Words model                                |                                            |
+|  37   | Apr 17 | __Project__: Bag of Words model                   |                                            |
 |  38   | Apr 19 |                                                   |                                            |
-|  39   | Apr 22 | __Project__: Bag of Words model                   |                                            |
+|  39   | Apr 22 |                                                   |                                            |
 |  40   | Apr 24 |                                                   |                                            |
 |  41   | Apr 26 |                                                   |                                            |
 |       | Apr 30 | Final Exam opens April 29, 5:00pm, due 24 hours after |                                        |

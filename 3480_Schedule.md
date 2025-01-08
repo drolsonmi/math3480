@@ -7,19 +7,21 @@ These are the topics that we plan to cover this semester:
 * Clustering Models
 * Natural Language Processing
 
+Topics I need to introduce
+* Ensemble Learning
+
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3480_Textbooks.md) page.
 
 |  Day  | Date   | Lecture                                           | Reading                                    |
 | :---: | :----- | :--------------------------                       | :--------------------------------------    |
 |   1   | Jan 8  | Introduction to Data Science and Machine Learning |                                            |
-|       |        | __*----- Review -----*__                          |                                            |
-|   2   | Jan 10 | Review: Data Handling                             | Geron, Chapter 2<br>McKinney, Chapters 7-8 |
-|   3   | Jan 13 | Review: Cleaning Data & Data Wrangling            |                                            |
+|   2   | Jan 10 | Types of Machine Learning                         |                                            |
 |       |        | __*----- Preprocessing -----*__                   |                                            |
-|   4   | Jan 15 | Review: Exploratory Data Analysis (EDA)           |                                            |
-|   5   | Jan 17 | Types of Machine Learning                         |                                            |
+|   3   | Jan 13 | Data Preprocessing                                |                                            |
+|   4   | Jan 15 | Review: Data Handling                             | Geron, Chapter 2<br>McKinney, Chapters 7-8 |
+|   5   | Jan 17 | Review: Cleaning Data & Data Wrangling            |                                            |
 |       | Jan 20 | *MLK Jr. Day - No School*                         |                                            |
-|   6   | Jan 22 | Data Preprocessing                                |                                            |
+|   6   | Jan 22 | Exploratory Data Analysis (EDA)                   |                                            |
 |   7   | Jan 24 | Regular Expressions                               |                                            |
 |   8   | Jan 27 | Cross Validation and Feature Scaling              |                                            |
 |   9   | Jan 29 | Loss Functions                                    |                                            |
@@ -61,4 +63,6 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |  39   | Apr 21 |                                                   |                                            |
 |  40   | Apr 23 |                                                   |                                            |
 |  41   | Apr 25 |                                                   |                                            |
-|       | Apr ?? | Final Exam opens April ??, ?:00?m<br>due 24 hours after |                                      |
+|       | Apr 28 | Final Exam at 2:30 PM<br>Programming portion due 24 hours after |                                      |
+
+

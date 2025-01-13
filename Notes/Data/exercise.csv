@@ -1,0 +1,21 @@
+﻿Date,Calories,Exercise Type,Length of Exercise (min),Quality of Exercise,Next-day Weight,Weight Lost
+1-Jan,2520,Running,10,Low,194.5,0
+2-Jan,1850,Stairs,10,High,193,1.5
+3-Jan,1925,Swimming,30,Medium,191.8,1.2
+4-Jan,1790,Running,20,High,187,4.8
+5-Jan,2120,Stairs,10,Medium,189,-2
+6-Jan,1910,Swimming,35,Medium,186,3
+7-Jan,1845,Running,20,Low,186,0
+8-Jan,2343,Stairs,15,Low,189,-3
+9-Jan,1886,Swimming,30,High,188,1
+10-Jan,2149,Running,15,High,190,-2
+11-Jan,1797,Stairs,10,High,187,3
+12-Jan,,Swimming,25,Medium,186,1
+13-Jan,1934,Running,10,High,184,2
+14-Jan,2129,Stairs,5,Low,186,-2
+15-Jan,1872,Swimming,0,None,185,1
+16-Jan,1957,Running,15,Medium,183.5,1.5
+17-Jan,1790,Stairs,10,Medium,181,2.5
+18-Jan,,Swimming,30,High,180,1
+19-Jan,1842,Running,25,High,178,2
+20-Jan,2173,Stairs,15,Medium,178.3,-0.3

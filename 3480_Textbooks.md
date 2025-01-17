@@ -2,9 +2,12 @@
 ### Required Textbooks and Resources
 In this class, we will focus most of our attention on the following book:
 
-- Geron, Aurelien, [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/), 3rd Edition, 2022.
+* Geron, Aurelien, [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/), 3rd Edition, 2022.
+* McKinney, Wes, [*Python for Data Analysis*](https://wesmckinney.com/book/), 3rd Edition, 2022. (__Book for MATH 3080__)
 
-<!--![https://learning.oreilly.com/covers/urn:orm:book:9781492041122/200w/](https://learning.oreilly.com/library/view/data-science-from/9781492041122/) ![https://mathfordata.github.io/assets/images/MathForData.png](https://mathfordata.github.io/) ![https://wesmckinney.com/book/images/cover.png](https://wesmckinney.com/book/)-->
+<!--![Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition](https://m.media-amazon.com/images/I/51SLnCjnj-L._AC_SY200_QL15_.jpg)![https://wesmckinney.com/book/](https://wesmckinney.com/book/images/cover.png) ![https://mathfordata.github.io/assets/images/MathForData.png](https://mathfordata.github.io/) -->
+
+<a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/"><img src="https://learning.oreilly.com/library/cover/9781098125967/250w/" height=170></a> <a href="https://learning.oreilly.com/library/cover/9781098104023/250w/"><img src="https://wesmckinney.com/book/images/cover.png" height=170></a>
 
 > This book is available for free on the O'Reilly publishing website. Snow College has a license with O'Reilly, which gives you free access to this book and many others. Here is how to access O'Reilly textbooks:
 > 1. Navigate to [https://www.oreilly.com/library/view/temporary-access/?orpqLinks](https://www.oreilly.com/library/view/temporary-access/?orpqLinks).
@@ -19,7 +22,6 @@ You will also need access to DataCamp. The link for our DataCamp class is on the
 -----
 ### Additional (Optional) Textbooks and Resources
 There are other fantastic resources which we will refer to occasionally this semester, or use more completely in future semesters:
-* McKinney, Wes, [*Python for Data Analysis*](https://wesmckinney.com/book/), 3rd Edition, 2022. (__Book for MATH 3080__)
 * Irizarry, Rafael, [*Introduction to Data Science*](https://rafalab.dfci.harvard.edu/dsbook-part-1/), 2020. (__Book for MATH 3080__)
 * Grus, Joel, [*Data Science from Scratch*](https://learning.oreilly.com/library/view/data-science-from/9781492041122/), 2nd Edition, 2019. (__Book for MATH 3080__)
 * Phillips, Jeff, [*Mathematical Foundations for Data Analysis*](https://mathfordata.github.io/), v0.6, 2019.

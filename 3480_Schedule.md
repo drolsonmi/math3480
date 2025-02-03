@@ -18,11 +18,11 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |   2   | Jan 10 | Types of Machine Learning                         |                                            |
 |       |        | __*----- Preprocessing -----*__                   |                                            |
 |   3   | Jan 13 | Data Preprocessing                                |                                            |
-|   4   | Jan 15 | Review: Data Handling                             | Geron, Chapter 2<br>McKinney, Chapters 7-8 |
-|   5   | Jan 17 | Review: Cleaning Data & Data Wrangling            |                                            |
+|   4   | Jan 15 | Cross Validation                                  |                                            |
+|   5   | Jan 17 | Exploratory Data Analysis (EDA) & Evaluation Metrics |                                         |
 |       | Jan 20 | *MLK Jr. Day - No School*                         |                                            |
-|   6   | Jan 22 | Exploratory Data Analysis (EDA)                   |                                            |
-|   7   | Jan 24 | Regular Expressions                               |                                            |
+|   6   | Jan 22 | Evaluation Metrics and Loss Functions             |                                            |
+|   7   | Jan 24 |                                                   |                                            |
 |   8   | Jan 27 | Cross Validation and Feature Scaling              |                                            |
 |   9   | Jan 29 | Loss Functions                                    |                                            |
 |  10   | Jan 31 | __Project__: EDA                                  |                                            |

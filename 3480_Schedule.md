@@ -22,17 +22,17 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |   5   | Jan 17 | Exploratory Data Analysis (EDA) & Evaluation Metrics |                                         |
 |       | Jan 20 | *MLK Jr. Day - No School*                         |                                            |
 |   6   | Jan 22 | Evaluation Metrics and Loss Functions             |                                            |
-|   7   | Jan 24 |                                                   |                                            |
-|   8   | Jan 27 | Cross Validation and Feature Scaling              |                                            |
-|   9   | Jan 29 | Loss Functions                                    |                                            |
+|   7   | Jan 24 | Bayes Theorem                                     |                                            |
+|   8   | Jan 27 | Naive Bayes Algorithm                             |                                            |
+|   9   | Jan 29 | Naive Bayes Algorithm (Object-Oriented Model)     |                                            |
 |  10   | Jan 31 | __Project__: EDA                                  |                                            |
 |       |        | __*----- Common Classification Models -----*__    |                                            |
-|  11   | Feb 3  | Evaluating Classification Models                  |                                            |
-|  12   | Feb 5  | Naive Bayes (Object-Oriented Model)               |                                            |
-|  13   | Feb 7  | k-Nearest Neighbors                               |                                            |
-|  14   | Feb 10 | Support Vector Classifiers                        | Geron, Chapter 5                           |
-|  15   | Feb 12 | Support Vector Classifiers                        |                                            |
-|  16   | Feb 14 | Support Vector Machines                           | Geron, Chapter 5                           |
+|  11   | Feb 3  | k-Nearest Neighbors Classifier and Regressor      |                                            |
+|  12   | Feb 5  | k-Nearest Neighbors Practice                      |                                            |
+|  13   | Feb 7  | Support Vector Classifiers                        | Geron, Chapter 5                           |
+|  14   | Feb 10 | Support Vector Classifiers                        |                                            |
+|  15   | Feb 12 | Support Vector Machines                           |                                            |
+|  16   | Feb 14 | Neural Networks                                   |                                            |
 |       | Feb 17 | *President's Day - No School*                     |                                            |
 |  17   | Feb 19 | Neural Networks                                   |                                            |
 |  18   | Feb 21 | Neural Networks                                   |                                            |

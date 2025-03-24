@@ -12,7 +12,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2013,First Round,Creighton,7,67,Cincinnati,10,63
 2013,First Round,Duke,2,73,Albany,15,61
 2013,First Round,Gonzaga,1,64,Southern,16,58
-2013,First Round,Pittsburgh,8,55,Wichita State,9,73
+2013,First Round,Pittsburg,8,55,Wichita State,9,73
 2013,First Round,Wisconsin,5,46,Ole Miss,12,57
 2013,First Round,Kansas State,4,61,La Salle,13,63
 2013,First Round,Arizona,6,81,Belmont,11,64
@@ -67,20 +67,20 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2013,Final Four,Michigan,4,61,Syracuse,4,56
 2013,Championship,Louisville,1,82,Michigan,4,76
 2014,First Four,NC State,12,74,Xavier,12,59
-2014,First Four,	Cal Poly,16,81,Texas Southern,16,69
-2014,First Four,	Albany,16,71,	Mount St. Mary's,16,64
-2014,First Four,	Iowa,11,65,Tennessee,11,78
-2014,First Round,	Florida,1,67,Albany,16,55
+2014,First Four,Cal Poly,16,81,Texas Southern,16,69
+2014,First Four,Albany,16,71,Mount St. Mary's,16,64
+2014,First Four,Iowa,11,65,Tennessee,11,78
+2014,First Round,Florida,1,67,Albany,16,55
 2014,First Round,Colorado,8,48,Pittsburgh,9,77
-2014,First Round,VCU,5,75,	Stephen F. Austin,12,77
+2014,First Round,VCU,5,75,Stephen F. Austin,12,77
 2014,First Round,UCLA,4,76,Tulsa,13,59
 2014,First Round,Ohio State,6,59,Dayton,11,60
 2014,First Round,Syracuse,3,77,Western Michigan,10,58
 2014,First Round,New Mexico,7,53,Stanford,10,58
-2014,First Round,Kansas,2,80,	Eastern Kentucky,15,69
+2014,First Round,Kansas,2,80,Eastern Kentucky,15,69
 2014,First Round,Virginia,1,70,Coastal Carolina,16,59
 2014,First Round,Memphis,8,71,George Washington,9,66
-2014,First Round,	Cincinnati,5,57,Harvard,12,61
+2014,First Round,Cincinnati,5,57,Harvard,12,61
 2014,First Round,Michigan State,4,93,Delaware,13,78
 2014,First Round,North Carolina,6,79,Providence,11,77
 2014,First Round,Iowa State,3,93,NC Central,14,75
@@ -88,41 +88,41 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2014,First Round,Villanova,2,73,Milwaukee,15,53
 2014,First Round,Arizona,1,68,Weber State,16,59
 2014,First Round,Gonzaga,8,85,Oklahoma State,9,77
-2014,First Round,Oklahoma,5,75,	North Dakota State,12,80
+2014,First Round,Oklahoma,5,75,North Dakota State,12,80
 2014,First Round,San Diego State,4,73,New Mexico State,13,69
 2014,First Round,Baylor,6,74,Nebraska,11,60
-2014,First Round,Creighton,3,76,Louisiana–Lafayette,14,66
-2014,First Round,	Oregon,7,87,BYU,10,68
-2014,First Round,	Wisconsin,2,75,American,15,35
+2014,First Round,Creighton,3,76,Louisiana-Lafayette,14,66
+2014,First Round,Oregon,7,87,BYU,10,68
+2014,First Round,Wisconsin,2,75,American,15,35
 2014,First Round,Wichita State,1,64,Cal Poly,16,37
-2014,First Round,	Kentucky,8,56,	Kansas State,9,49
-2014,First Round,Saint Louis,5,83,	NC State,12,80
+2014,First Round,Kentucky,8,56,Kansas State,9,49
+2014,First Round,Saint Louis,5,83,NC State,12,80
 2014,First Round,Louisville,4,71,Manhattan,13,64
 2014,First Round,Massachusetts,6,67,Tennessee,11,86
-2014,First Round,	Duke,3,71,Mercer,14,78
-2014,First Round,	Texas,7,87,	Arizona State,10,85
+2014,First Round,Duke,3,71,Mercer,14,78
+2014,First Round,Texas,7,87,Arizona State,10,85
 2014,First Round,Michigan State,2,57,Wofford,15,40
 2014,Second Round,Florida,1,61,Pittsburgh,9,45
-2014,Second Round,Stephen F. Austin	,12,60,UCLA,4,77
+2014,Second Round,Stephen F. Austin,12,60,UCLA,4,77
 2014,Second Round,Dayton,11,55,Syracuse,3,53
 2014,Second Round,Stanford,10,60,Kansas,2,57
 2014,Second Round,Virginia,1,78,Memphis,8,60
-2014,Second Round,Harvard,12,73,Michigan State	,4,80
-2014,Second Round,North Carolina,6,83,Iowa State	,3,85
-2014,Second Round,UConn,7,77,Villanova        ,2,65
+2014,Second Round,Harvard,12,73,Michigan State,4,80
+2014,Second Round,North Carolina,6,83,Iowa State,3,85
+2014,Second Round,UConn,7,77,Villanova,2,65
 2014,Second Round,Arizona,1,84,Gonzaga,8,61
-2014,Second Round,North Dakota State,12,44,San Diego State	,4,63
+2014,Second Round,North Dakota State,12,44,San Diego State,4,63
 2014,Second Round,Baylor,6,85,Creighton,3,55
 2014,Second Round,Oregon,7,77,Wisconsin,2,85
-2014,Second Round,Wichita State	,1,76,Kentucky,8,78
+2014,Second Round,Wichita State,1,76,Kentucky,8,78
 2014,Second Round,Saint Louis,5,51,Louisville,4,66
 2014,Second Round,Tennessee,11,83,Mercer,14,63
-2014,Second Round,Texas,7,65,Michigan State	,2,79
+2014,Second Round,Texas,7,65,Michigan State,2,79
 2014,Sweet 16,Florida,1,79,UCLA,4,68
 2014,Sweet 16,Dayton,11,82,Stanford,10,72
 2014,Sweet 16,Virginia,1,59,Michigan State,4,61
 2014,Sweet 16,Iowa State,3,76,UConn,7,81
-2014,Sweet 16,Arizona,1,70,San Diego State	,4,64
+2014,Sweet 16,Arizona,1,70,San Diego State,4,64
 2014,Sweet 16,Baylor,6,52,Wisconsin,2,69
 2014,Sweet 16,Kentucky,8,74,Louisville,4,69
 2014,Sweet 16,Tennessee,11,71,Michigan,2,73
@@ -132,10 +132,10 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2014,Elite 8,Kentucky,8,75,Kentucky,2,72
 2014,Final Four,Kentucky,8,74,Wisconsin,2,73
 2014,Final Four,UConn,7,63,Florida,1,53
-2014,Championship,Kentucky,8,54,UConn	,7,60
+2014,Championship,Kentucky,8,54,UConn,7,60
 2015,First Four,BYU,11,90,Ole Miss,11,94
 2015,First Four,Hampton,16,74,Manhattan,16,64
-2015,First Four,Boise State ,11,55,Dayton,11,56
+2015,First Four,Boise State,11,55,Dayton,11,56
 2015,First Four,North Florida,16,77,Robert Morris,16,81
 2015,First Round,Kentucky,1,79,Hampton,16,56
 2015,First Round,Cincinnati,8,66,Purdue,9,65
@@ -151,18 +151,18 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2015,First Round,North Carolina,4,67,Harvard,13,65
 2015,First Round,Xavier,6,76,Ole Miss,11,57
 2015,First Round,Baylor,3,56,Georgia State,14,57
-2015,First Round,Virginia Commonwealth,7,72,Ohio State,10,75
+2015,First Round,VCU,7,72,Ohio State,10,75
 2015,First Round,Arizona,2,93,Texas Southern,15,72
 2015,First Round,Villanova,1,93,Lafayette,16,52
 2015,First Round,NC State,8,66,LSU,9,65
 2015,First Round,Northern Iowa,5,71,Wyoming,12,54
-2015,First Round,Louisville,4,57,California-Irvine,13,55
+2015,First Round,Louisville,4,57,UC Irvine,13,55
 2015,First Round,Providence,6,53,Dayton,11,66
 2015,First Round,Oklahoma,3,69,Albany,14,60
 2015,First Round,Michigan State,7,70,Georgia,10,63
 2015,First Round,Virginia,2,79,Belmont,15,67
 2015,First Round,Duke,1,85,Robert Morris,16,56
-2015,First Round,San Diego State,8,76,St John's,9,64
+2015,First Round,San Diego State,8,76,St. John's,9,64
 2015,First Round,Utah,5,57,Stephen F. Austin,12,50
 2015,First Round,Georgetown,4,84,Eastern Washington,13,74
 2015,First Round,SMU,6,59,UCLA,11,60
@@ -170,7 +170,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2015,First Round,Iowa,7,83,Davidson,10,52
 2015,First Round,Gonzaga,2,86,North Dakota State,15,76
 2015,Second Round,Kentucky,1,79,Cincinnati,8,51
-2015,Second Round,West Viginia,5,69,Maryland,4,59
+2015,Second Round,West Virginia,5,69,Maryland,4,59
 2015,Second Round,Butler,6,64,Notre Dame,3,67
 2015,Second Round,Wichita State,7,78,Kansas,2,65
 2015,Second Round,Wisconsin,1,72,Oregon,8,65
@@ -180,7 +180,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2015,Second Round,Villanova,1,68,NC State,8,71
 2015,Second Round,Northern Iowa,5,53,Louisville,4,66
 2015,Second Round,Dayton,11,66,Oklahoma,3,72
-2015,Second Round,Michigan State,7,60,Virgina,2,54
+2015,Second Round,Michigan State,7,60,Virginia,2,54
 2015,Second Round,Duke,1,68,San Diego State,8,49
 2015,Second Round,Utah,5,75,Georgetown,4,64
 2015,Second Round,UCLA,11,92,UAB,14,75
@@ -226,13 +226,13 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2016,First Round,Kentucky,4,85,Stony Brook,13,57
 2016,First Round,Notre Dame,6,70,Michigan,11,63
 2016,First Round,West Virginia,3,56,Stephen F. Austin,14,70
-2016,First Round,Wisconsin,7,47,Pittsburgh,10,43
+2016,First Round,Wisconsin,7,47,Pittsburg,10,43
 2016,First Round,Xavier,2,71,Weber State,15,53
 2016,First Round,Virginia,1,81,Hampton,16,45
 2016,First Round,Texas Tech,8,61,Butler,9,71
-2016,First Round,Purdue,5,83,Little Rock,12,85
+2016,First Round,Purdue,5,83,Arkansas Little Rock,12,85
 2016,First Round,Iowa State,4,94,Iona,13,81
-2016,First Round,Seton Hall,6,52,Gonzaga,11,68
+2016,First Round,Steton Hall,6,52,Gonzaga,11,68
 2016,First Round,Utah,3,80,Fresno State,14,69
 2016,First Round,Dayton,7,51,Syracuse,10,70
 2016,First Round,Michigan State,2,81,Middle Tennessee,15,90
@@ -249,7 +249,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2016,Second Round,Notre Dame,6,76,Stephen F. Austin,14,75
 2016,Second Round,Wisconsin,7,66,Xavier,2,63
 2016,Second Round,Virginia,1,77,Butler,9,69
-2016,Second Round,Little Rock,12,61,Iowa State,4,78
+2016,Second Round,Arkansas Little Rock,12,61,Iowa State,4,78
 2016,Second Round,Gonzaga,11,82,Utah,3,59
 2016,Second Round,Syracuse,10,75,Middle Tennessee,15,50
 2016,Sweet 16,Kansas,1,79,Maryland,5,63
@@ -267,20 +267,20 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2016,Final Four,Villanova,2,95,Oklahoma,2,51
 2016,Final Four,North Carolina,1,83,Syracuse,10,66
 2016,Championship,Villanova,2,77,North Carolina,1,74
-2017,First Four,Mount St Mary's,16,67,New Orleans,16,66
-2017,First Four,Kansas State ,11,95,Wake Forest,11,88
-2017,First Four,North Carolina Central,16,63,UC Davis,16,67
+2017,First Four,Mount St. Mary's,16,67,New Orleans,16,66
+2017,First Four,Kansas State,11,95,Wake Forest,11,88
+2017,First Four,NC Central,16,63,UC Davis,16,67
 2017,First Four,Providence,11,71,USC,11,75
-2017,First Round,Villanova,1,76,Mount St Mary's,16,56
+2017,First Round,Villanova,1,76,Mount St. Mary's,16,56
 2017,First Round,Wisconsin,8,84,Virginia Tech,9,74
 2017,First Round,Virginia,5,76,UNC Wilmington,12,71
 2017,First Round,Florida,4,80,East Tennessee State,13,65
-2017,First Round,SMU,6,65,USC ,11,66
+2017,First Round,SMU,6,65,USC,11,66
 2017,First Round,Baylor,3,91,New Mexico State,14,73
 2017,First Round,South Carolina,7,93,Marquette,10,73
 2017,First Round,Duke,2,87,Troy,15,65
 2017,First Round,Gonzaga,1,66,South Dakota State,16,46
-2017,First Round,Northwestern,8,68,Vanderbuilt,9,66
+2017,First Round,Northwestern,8,68,Vanderbilt,9,66
 2017,First Round,Notre Dame,5,60,Princeton,12,58
 2017,First Round,West Virginia,4,86,Bucknell,13,80
 2017,First Round,Maryland,6,65,Xavier,11,76
@@ -295,9 +295,9 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2017,First Round,Oregon,3,93,Iona,14,77
 2017,First Round,Michigan,7,92,Oklahoma State,10,91
 2017,First Round,Louisville,2,78,Jacksonville State,15,63
-2017,First Round,North Carloina,1,103,Texas Southern,16,64
+2017,First Round,North Carolina,1,103,Texas Southern,16,64
 2017,First Round,Arkansas,8,77,Seton Hall,9,71
-2017,First Round,Minnesota,5,72,Middle Tennesse,12,81
+2017,First Round,Minnesota,5,72,Middle Tennessee,12,81
 2017,First Round,Butler,4,76,Winthrop,13,64
 2017,First Round,Cincinnati,6,75,Kansas State,11,61
 2017,First Round,UCLA,3,97,Kent State,14,80
@@ -305,7 +305,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2017,First Round,Kentucky,2,79,Northern Kentucky,15,70
 2017,Second Round,Villanova,1,62,Wisconsin,8,65
 2017,Second Round,Virginia,5,39,Florida,4,65
-2017,Second Round,USC ,11,78,Baylor,3,82
+2017,Second Round,USC,11,78,Baylor,3,82
 2017,Second Round,South Carolina,7,88,Duke,2,81
 2017,Second Round,Gonzaga,1,79,Northwestern,8,73
 2017,Second Round,Notre Dame,5,71,West Virginia,4,83
@@ -334,15 +334,15 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2017,Final Four,South Carolina,7,73,Gonzaga,1,77
 2017,Final Four,Oregon,3,76,North Carolina,1,77
 2017,Championship,Gonzaga,1,65,North Carolina,1,71
-2018,First Four,LIU Brookyln,16,61,Radford,16,71
+2018,First Four,Long Island,16,61,Radford,16,71
 2018,First Four,St. Bonaventure,11,65,UCLA,11,58
-2018,First Four,Texas Southern,16,64,North Carolina Central,16,46
+2018,First Four,Texas Southern,16,64,NC Central,16,46
 2018,First Four,Syracuse,11,60,Arizona State,11,56
 2018,First Round,Virginia,1,54,UMBC,16,74
 2018,First Round,Creighton,8,59,Kansas State,9,69
 2018,First Round,Kentucky,5,78,Davidson,12,73
 2018,First Round,Arizona,4,68,Buffalo,13,89
-2018,First Round,Miami FL,6,62,Loyola-Chicago,11,64
+2018,First Round,Miami FL,6,62,Loyola Chicago,11,64
 2018,First Round,Tennessee,3,73,Wright State,14,47
 2018,First Round,Nevada,7,87,Texas,10,83
 2018,First Round,Cincinnati,2,68,Georgia State,15,53
@@ -363,7 +363,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2018,First Round,Arkansas,7,62,Butler,10,79
 2018,First Round,Purdue,2,24,Cal State Fullerton,15,48
 2018,First Round,Kansas,1,76,Penn,16,60
-2018,First Round,Secton Hall,8,94,NC State,9,83
+2018,First Round,Seton Hall,8,94,NC State,9,83
 2018,First Round,Clemson,5,79,New Mexico State,12,68
 2018,First Round,Auburn,4,62,College of Charleston,13,58
 2018,First Round,TCU,6,52,Syracuse,11,57
@@ -372,7 +372,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2018,First Round,Duke,2,89,Iona,15,67
 2018,Second Round,UMBC,16,43,Kansas State,9,50
 2018,Second Round,Kentucky,5,95,Buffalo,13,75
-2018,Second Round,Loyola-Chicago,11,63,Tennessee,3,62
+2018,Second Round,Loyola Chicago,11,63,Tennessee,3,62
 2018,Second Round,Nevada,7,75,Cincinnati,2,73
 2018,Second Round,Xavier,1,70,Florida State,9,75
 2018,Second Round,Ohio State,5,84,Gonzaga,4,90
@@ -382,29 +382,29 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2018,Second Round,West Virginia,5,94,Marshall,13,71
 2018,Second Round,Florida,6,66,Texas Tech,3,69
 2018,Second Round,Butler,10,73,Purdue,2,76
-2018,Second Round,Kansas,1,83,Secton Hall,8,79
+2018,Second Round,Kansas,1,83,Seton Hall,8,79
 2018,Second Round,Clemson,5,84,Auburn,4,53
 2018,Second Round,Syracuse,11,55,Michigan State,3,53
 2018,Second Round,Rhode Island,7,62,Duke,2,87
 2018,Sweet 16,Kansas State,9,61,Kentucky,5,58
-2018,Sweet 16,Loyola-Chicago,11,69,Nevada,7,68
+2018,Sweet 16,Loyola Chicago,11,69,Nevada,7,68
 2018,Sweet 16,Florida State,9,75,Gonzaga,4,60
 2018,Sweet 16,Michigan,3,99,Texas A&M,7,72
-2018,Sweet 16,Villanova,1,90,West Virgina,5,78
+2018,Sweet 16,Villanova,1,90,West Virginia,5,78
 2018,Sweet 16,Texas Tech,3,78,Purdue,2,65
 2018,Sweet 16,Kansas,1,80,Clemson,5,76
 2018,Sweet 16,Syracuse,11,65,Duke,2,69
-2018,Elite 8,Kansas State,9,62,Loyola-Chicago,11,78
+2018,Elite 8,Kansas State,9,62,Loyola Chicago,11,78
 2018,Elite 8,Florida State,9,54,Michigan,3,58
 2018,Elite 8,Villanova,1,71,Texas Tech,3,59
 2018,Elite 8,Kansas,1,85,Duke,2,81
-2018,Final Four,Loyola-Chicago,11,57,Michigan,3,69
+2018,Final Four,Loyola Chicago,11,57,Michigan,3,69
 2018,Final Four,Villanova,1,95,Kansas,1,79
 2018,Championship,Michigan,3,62,Villanova,1,79
-2019,First Four,Prarie View A&M,16,76,Fairleigh Dickinson,16,82
+2019,First Four,Prairie View A&M,16,76,Fairleigh Dickinson,16,82
 2019,First Four,St. John's,11,65,Arizona State,11,74
 2019,First Four,Belmont,11,81,Temple,11,70
-2019,First Four,North Carolina Central,16,74,North Dakota State,16,78
+2019,First Four,NC Central,16,74,North Dakota State,16,78
 2019,First Round,Duke,1,85,North Dakota State,16,62
 2019,First Round,VCU,8,58,UCF,9,73
 2019,First Round,Mississippi State,5,76,Liberty,12,80
@@ -420,21 +420,21 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2019,First Round,Buffalo,6,91,Arizona State,11,74
 2019,First Round,Texas Tech,3,72,Northern Kentucky,14,57
 2019,First Round,Nevada,7,61,Florida,10,70
-2019,First Round,Michigan ,2,74,Montana,15,55
-2019,First Round,Virginia,1,71,Gardner-Webb,16,56
+2019,First Round,Michigan,2,74,Montana,15,55
+2019,First Round,Virginia,1,71,Gardner Webb,16,56
 2019,First Round,Ole Miss,8,72,Oklahoma,9,95
 2019,First Round,Wisconsin,5,54,Oregon,12,72
 2019,First Round,Kansas State,4,64,UC Irvine,13,70
-2019,First Round,Villanova,6,61,Saint Mary's,11,57
+2019,First Round,Villanova,6,61,Satint Mary's,11,57
 2019,First Round,Purdue,3,61,Old Dominion,14,48
 2019,First Round,Cincinnati,7,72,Iowa,10,79
 2019,First Round,Tennessee,2,77,Colgate,15,70
-2019,First Round,North Carolina ,1,88,Iona,16,73
+2019,First Round,North Carolina,1,88,Iona,16,73
 2019,First Round,Utah State,8,61,Washington,9,78
 2019,First Round,Auburn,5,78,New Mexico State,12,77
-2019,First Round,Kansas ,4,87,Northeastern,13,53
+2019,First Round,Kansas,4,87,Northeastern,13,53
 2019,First Round,Iowa State,6,59,Ohio State,11,62
-2019,First Round,Houstan,3,84,Georgia State,14,55
+2019,First Round,Houston,3,84,Georgia State,14,55
 2019,First Round,Wofford,7,84,Seton Hall,10,68
 2019,First Round,Kentucky,2,79,Abilene Christian,15,44
 2019,Second Round,Duke,1,77,UCF,9,76
@@ -444,11 +444,11 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2019,Second Round,Gonzaga,1,83,Baylor,9,71
 2019,Second Round,Murray State,12,62,Florida State,4,90
 2019,Second Round,Buffalo,6,58,Texas Tech,3,78
-2019,Second Round,Florida ,10,49,Michigan ,2,64
+2019,Second Round,Florida,10,49,Michigan,2,64
 2019,Second Round,Virginia,1,63,Oklahoma,9,51
 2019,Second Round,Oregon,12,73,UC Irvine,13,54
 2019,Second Round,Villanova,6,61,Purdue,3,87
-2019,Second Round,Iowa ,10,77,Tennessee,2,83
+2019,Second Round,Iowa,10,77,Tennessee,2,83
 2019,Second Round,North Carolina,1,81,Washington,9,59
 2019,Second Round,Auburn,5,89,Kansas,4,75
 2019,Second Round,Ohio State,11,59,Houston,3,74
@@ -467,13 +467,13 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2019,Elite 8,Auburn,5,77,Kentucky,2,71
 2019,Final Four,Michigan State,2,51,Texas Tech,3,61
 2019,Final Four,Virginia,1,63,Auburn,5,62
-2019,Championship,Texas Tech,3,77,Virginia ,1,85
+2019,Championship,Texas Tech,3,77,Virginia,1,85
 2021,First Four,Norfolk State,16,54,Appalachian State,16,53
-2021,First Four,Witicha State,11,52,Drake,11,53
-2021,First Four,Michigain State,11,80,UCLA,11,86
+2021,First Four,Wichita State,11,52,Drake,11,53
+2021,First Four,Michigan State,11,80,UCLA,11,86
 2021,First Four,Mount St. Mary's,16,52,Texas Southern,16,60
 2021,First Round,Gonzaga,1,98,Norfolk State,16,55
-2021,First Round,Oklahoma,8,72,Misouri,9,68
+2021,First Round,Oklahoma,8,72,Missouri,9,68
 2021,First Round,Creighton,5,63,UC Santa Barbara,12,62
 2021,First Round,Virginia,4,58,Ohio,13,62
 2021,First Round,USC,6,72,Drake,11,56
@@ -487,7 +487,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2021,First Round,Texas,3,52,Abilene Christian,14,53
 2021,First Round,UConn,7,54,Maryland,10,63
 2021,First Round,Alabama,2,68,Iona,15,55
-2021,First Round,Baylor,1,79,Hardford,16,55
+2021,First Round,Baylor,1,79,Hartford,16,55
 2021,First Round,North Carolina,8,62,Wisconsin,9,85
 2021,First Round,Villanova,5,73,Winthrop,12,63
 2021,First Round,Purdue,4,69,North Texas,13,78
@@ -502,7 +502,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2021,First Round,San Diego State,6,62,Syracuse,11,78
 2021,First Round,West Virginia,3,84,Morehead State,14,67
 2021,First Round,Clemson,7,56,Rutgers,10,60
-2021,First Round,Houston ,2,87,Cleaveland State,15,56
+2021,First Round,Houston,2,87,Cleveland State,15,56
 2021,Second Round,Rutgers,10,60,Houston,2,63
 2021,Second Round,Syracuse,11,75,West Virginia,3,72
 2021,Second Round,Oregon State,12,80,Oklahoma State,4,70
@@ -534,7 +534,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2021,Final Four,Gonzaga,1,93,UCLA,11,90
 2021,Final Four,Baylor,1,78,Houston,2,59
 2021,Championship,Baylor,1,86,Gonzaga,1,70
-2022,First Four,Texas Southern,16,76,Texas A&M-Corpus Christi,16,67
+2022,First Four,Texas Southern,16,76,Texas A&M Corpus Christi,16,67
 2022,First Four,Wyoming,12,58,Indiana,12,66
 2022,First Four,Wright State,16,93,Bryant,16,82
 2022,First Four,Rutgers,11,87,Notre Dame,11,89
@@ -557,7 +557,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2022,First Round,Arizona,1,87,Wright State,16,70
 2022,First Round,Seton Hall,8,42,TCU,9,69
 2022,First Round,Houston,5,82,UAB,12,68
-2022,First Round,Illinois,4,54,Chatanooga,13,53
+2022,First Round,Illinois,4,54,Chattanooga,13,53
 2022,First Round,Colorado State,6,63,Michigan,11,75
 2022,First Round,Tennessee,3,88,Longwood,14,56
 2022,First Round,Ohio State,7,54,Loyola Chicago,10,41
@@ -568,7 +568,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2022,First Round,Providence,4,66,South Dakota State,13,57
 2022,First Round,LSU,6,54,Iowa State,11,59
 2022,First Round,Wisconsin,3,67,Colgate,14,60
-2022,First Round,USE,7,66,Miami FL,10,68
+2022,First Round,USC,7,66,Miami FL,10,68
 2022,First Round,Auburn,2,80,Jacksonville State,15,61
 2022,Second Round,Gonzaga,1,82,Memphis,9,78
 2022,Second Round,New Mexico State,12,48,Arkansas,4,53
@@ -601,22 +601,22 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2022,Final Four,Duke,2,77,North Carolina,8,81
 2022,Final Four,Villanova,2,65,Kansas,1,81
 2022,Championship,North Carolina,8,69,Kansas,1,72
-2023,First Four,Texas A&M-Corpus Christi,16,75,SE Missouri State,16,71
-2023,First Four,Mississipi State,11,60,Pittsburgh,11,60
+2023,First Four,Texas A&M Corpus Christi,16,75,SE Missouri State,16,71
+2023,First Four,Mississippi State,11,60,Pittsburgh,11,60
 2023,First Four,Arizona State,11,98,Nevada,11,73
 2023,First Four,Texas Southern,16,61,Fairleigh Dickinson,16,84
-2023,First Round,Alabama,1,96,Texas A&M-Corpus Christi,16,75
+2023,First Round,Alabama,1,96,Texas A&M Corpus Christi,16,75
 2023,First Round,Maryland,8,67,West Virginia,9,65
-2023,First Round,San Diego State,5,63,Charleston,12,57
+2023,First Round,San Diego State,5,63,College of Charleston,12,57
 2023,First Round,Virginia,4,67,Furman,13,68
-2023,First Round,Creighton,6,72,North Carolina State,11,63
-2023,First Round,Baylor,3,74,UC Santa Barbra,14,56
+2023,First Round,Creighton,6,72,NC State,11,63
+2023,First Round,Baylor,3,74,UC Santa Barbara,14,56
 2023,First Round,Missouri,7,76,Utah State,10,65
 2023,First Round,Arizona,2,55,Princeton,15,59
 2023,First Round,Purdue,1,58,Fairleigh Dickinson,16,63
 2023,First Round,Memphis,8,65,Florida Atlantic,9,66
 2023,First Round,Duke,5,74,Oral Roberts,12,51
-2023,First Round,Tennessee,4,58,Louisiana,13,55
+2023,First Round,Tennessee,4,58,Louisiana-Lafayette,13,55
 2023,First Round,Kentucky,6,61,Providence,11,53
 2023,First Round,Kansas State,3,77,Montana State,14,65
 2023,First Round,Michigan State,7,72,USC,10,65
@@ -625,7 +625,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2023,First Round,Iowa,8,75,Auburn,9,83
 2023,First Round,Miami FL,5,63,Drake,12,56
 2023,First Round,Indiana,4,71,Kent State,13,60
-2023,First Round,Iowa State,6,41,Pittsburgh,11,59
+2023,First Round,Iowa State,6,41,Pittsburg,11,59
 2023,First Round,Xavier,3,72,Kennesaw State,14,67
 2023,First Round,Texas A&M,7,59,Penn State,10,76
 2023,First Round,Texas,2,81,Colgate,15,61
@@ -669,7 +669,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2023,Final Four,Miami FL,5,59,UConn,4,72
 2023,Championship,San Diego State,5,59,UConn,4,76
 2024,First Four,Howard,16,68,Wagner,16,71
-2024,First Four,Virginia,10,42, Colorado State,10,67
+2024,First Four,Virginia,10,42,Colorado State,10,67
 2024,First Four,Montana State,16,81,Grambling State,16,88
 2024,First Four,Boise State,10,53,Colorado,10,60
 2024,First Round,UConn,1,91,Stetson,16,52
@@ -683,7 +683,7 @@ Year,Round,Team A,Team A Rank,Team A Points,Team B,Team B Rank,Team B Points
 2024,First Round,North Carolina,1,90,Wagner,16,62
 2024,First Round,Mississippi State,8,51,Michigan State,9,69
 2024,First Round,Saint Mary's,5,66,Grand Canyon,12,75
-2024,First Round,Alabama,4,109,Charleston,13,96
+2024,First Round,Alabama,4,109,College of Charleston,13,96
 2024,First Round,Clemson,6,77,New Mexico,11,56
 2024,First Round,Baylor,3,92,Colgate,14,67
 2024,First Round,Dayton,7,63,Nevada,10,60

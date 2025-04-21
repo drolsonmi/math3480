@@ -63,6 +63,6 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |  39   | Apr 21 |                                                   |                                            |
 |  40   | Apr 23 |                                                   |                                            |
 |  41   | Apr 25 |                                                   |                                            |
-|       | Apr 28 | Final Exam at 2:30 PM<br>Programming portion due 24 hours after |                                      |
+|       | Apr 28 | Final Exam opens at 2:30 PM<br>Due 24 hours after |                                      |
 
 

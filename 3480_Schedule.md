@@ -58,11 +58,11 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |  35   | Apr 11 | __Project__: Unsupervised Clustering Models       |                                            |
 |       |        | __*----- Natural Language Processing -----*__     |                                            |
 |  36   | Apr 14 | Overview of NLP                                   |                                            |
-|  37   | Apr 16 |                                                   |                                            |
-|  38   | Apr 18 |                                                   |                                            |
-|  39   | Apr 21 |                                                   |                                            |
-|  40   | Apr 23 |                                                   |                                            |
-|  41   | Apr 25 |                                                   |                                            |
-|       | Apr 28 | Final Exam opens at 2:30 PM<br>Due 24 hours after |                                      |
+|  37   | Apr 16 | Bag of Words                                      |                                            |
+|  38   | Apr 18 | Bag of Words cont.                                |                                            |
+|  39   | Apr 21 | n-grams and Grammars                              |                                            |
+|  40   | Apr 23 | Review                                            |                                            |
+|  41   | Apr 25 | Review                                            |                                            |
+|       | Apr 28 | Final Exam opens at 2:30 PM<br>Due 24 hours after |                                            |
 
 

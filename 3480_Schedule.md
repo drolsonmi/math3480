@@ -12,7 +12,7 @@ We will look at 4 different modeling types:
 * Clustering Models
 * Natural Language Processing
 
-Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3480_Textbooks.md) page.
+Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3480/blob/main/3480_Textbooks.md) page.
 
 |  Day  | Date   | Lecture                                           | Reading                                    |
 | :---: | :----: | :--------------------------                       | :--------------------------------------    |

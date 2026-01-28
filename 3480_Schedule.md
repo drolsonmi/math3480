@@ -25,12 +25,12 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 19  | *MLK Jr. Day - No School*                         |                                            |
 | Jan 21  | Cross Validation                                  |                                            |
 | Jan 23  | Scaling and Exploratory Data Analysis             |                                            |
+| Jan 26  | EDA                                               |                                            |
+| Jan 28  | __Project__: Preprocessing and EDA                |                                            |
 |         | __*----- Common Classification Models -----*__    |                                            |
-| Jan 26  | __Project__: Preprocessing and EDA                |                                            |
-| Jan 28  | Bayes Theorem                                     |                                            |
-| Jan 30  | Naive Bayes Algorithm                             |                                            |
-| Feb 2   | k-Nearest Neighbors Classifier and Regressor      |                                            |
-| Feb 4   | k-Nearest Neighbors Practice                      |                                            |
+| Jan 30  | Bayes Theorem                                     |                                            |
+| Feb 2   | Naive Bayes Algorithm                             |                                            |
+| Feb 4   | k-Nearest Neighbors Classifier and Regressor      |                                            |
 | Feb 6   | Support Vector Classifiers                        | Geron, Chapter 5                           |
 | Feb 9   | Support Vector Classifiers                        |                                            |
 | Feb 11  | Support Vector Machines                           |                                            |

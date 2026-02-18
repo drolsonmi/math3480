@@ -31,31 +31,32 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 30  | Bayes Theorem                                     |                                            |
 | Feb 2   | Naive Bayes Algorithm                             |                                            |
 | Feb 4   | k-Nearest Neighbors Classifier and Regressor      |                                            |
-| Feb 6   | Support Vector Classifiers                        | Geron, Chapter 5                           |
+| Feb 6   | *Software Unconference - No Class*                |                                            |
 | Feb 9   | Support Vector Classifiers                        |                                            |
 | Feb 11  | Support Vector Machines                           |                                            |
-| Feb 13  | Neural Networks                                   |                                            |
+| Feb 13  | *No Class*                                        |                                            |
 | Feb 16  | *President's Day - No School*                     |                                            |
-| Feb 18  | Neural Networks                                   |                                            |
+| Feb 18  | Support Vector Machines                           |                                            |
 | Feb 20  | Neural Networks                                   |                                            |
-| Feb 23  | Deep Neural Networks                              |                                            |
-| Feb 25  | Keras and TensorFlow                              |                                            |
-| Feb 27  | Decision Trees                                    |                                            |
-| Mar 2-6 | *Spring Break*                                    |                                            |
-| Mar 9   | Random Forests                                    |                                            |
-| Mar 11  | __Project__: Supervised Classifiers               |                                            |
-| Mar 13  | Midterm Review                                    |                                            |
-| Mar 16  | Midterm                                           |                                            |
-|         | __*----- Common Regression Models -----*__        |                                            |
-| Mar 18  | Evaluating Regression Models                      |                                            |
-| Mar 20  | Linear Regression                                 |                                            |
-| Mar 23  | Multi-linear and Polynomial Regression            |                                            |
-| Mar 25  | Logistic Regression                               |                                            |
-| Mar 27  | __Project__: Supervised Regressors                |                                            |
+| Feb 23  | Neural Networks                                   |                                            |
+| Feb 25  | __Project__: Classification 1                     |                                            |
+| Feb 27  | Neural Networks                                   |                                            |
+| Mar 2   | *Spring Break - No School*                        |                                            |
+| Mar 4   | *Spring Break - No School*                        |                                            |
+| Mar 6   | *Spring Break - No School*                        |                                            |
+| Mar 9   | Deep Neural Networks                              |                                            |
+| Mar 11  | Keras and TensorFlow                              |                                            |
+| Mar 13  | __Project__: Neural Networks                      |                                            |
+| Mar 16  | Decision Trees                                    |                                            |
+| Mar 18  | Random Forests                                    |                                            |
+| Mar 20  | Midterm Review                                    |                                            |
+| Mar 23  | Midterm                                           |                                            |
+| Mar 25  | __Project__: Supervised Classifiers               |                                            |
 |         | __*----- Common Clustering Models -----*__        |                                            |
-| Mar 30  | Hard/Soft Clustering and Gaussian Mixture Models  |                                            |
-| Apr 1   | k-Means and the Elbow Method of Evaluation        |                                            |
-| Apr 3   | Hierarchical Clustering                           |                                            |
+| Mar 27  | Hard/Soft Clustering and Gaussian Mixture Models  |                                            |
+| Mar 30  | k-Means and the Elbow Method of Evaluation        |                                            |
+| Apr 1   | Hierarchical Clustering                           |                                            |
+| Apr 3   | *April Break - No School*                         |                                            |
 | Apr 6   | DBSCAN                                            |                                            |
 | Apr 8   | __Project__: Unsupervised Clustering Models       |                                            |
 |         | __*----- Natural Language Processing -----*__     |                                            |
@@ -65,5 +66,4 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Apr 17  | n-grams and Grammars                              |                                            |
 | Apr 20  | Review                                            |                                            |
 | Apr 22  | Review                                            |                                            |
-| Apr 24  |                                                   |                                            |
 | Apr 29  | Final Exam in the classroom at 12:00 PM           |                                            |

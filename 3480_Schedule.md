@@ -46,24 +46,25 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Mar 6   | *Spring Break - No School*                        |                                            |
 | Mar 9   | Deep Neural Networks                              |                                            |
 | Mar 11  | Keras and TensorFlow                              |                                            |
-| Mar 13  | __Project__: Neural Networks                      |                                            |
-| Mar 16  | Decision Trees                                    |                                            |
-| Mar 18  | Random Forests                                    |                                            |
-| Mar 20  | Midterm Review                                    |                                            |
-| Mar 23  | Midterm                                           |                                            |
-| Mar 25  | __Project__: Supervised Classifiers               |                                            |
+| Mar 13  | __Project__: March Madness and Neural Networks    |                                            |
+| Mar 16  | Convolutional Neural Networks                     | Geron, Chapter 14                          |
+| Mar 18  | Decision Trees                                    |                                            |
+| Mar 20  | Random Forests                                    |                                            |
+| Mar 23  | Midterm Review                                    |                                            |
+| Mar 25  | Midterm                                           |                                            |
+| Mar 27  | __Project__: Supervised Classifiers               |                                            |
 |         | __*----- Common Clustering Models -----*__        |                                            |
-| Mar 27  | Hard/Soft Clustering and Gaussian Mixture Models  |                                            |
-| Mar 30  | k-Means and the Elbow Method of Evaluation        |                                            |
-| Apr 1   | Hierarchical Clustering                           |                                            |
+| Mar 30  | Hard/Soft Clustering and Gaussian Mixture Models  |                                            |
+| Apr 1   | k-Means and the Elbow Method of Evaluation        |                                            |
 | Apr 3   | *April Break - No School*                         |                                            |
-| Apr 6   | DBSCAN                                            |                                            |
-| Apr 8   | __Project__: Unsupervised Clustering Models       |                                            |
+| Apr 6   | Hierarchical Clustering                           |                                            |
+| Apr 8   | DBSCAN                                            |                                            |
+| Apr 10  | __Project__: Unsupervised Clustering Models       |                                            |
 |         | __*----- Natural Language Processing -----*__     |                                            |
-| Apr 10  | Overview of NLP                                   |                                            |
-| Apr 13  | Bag of Words                                      |                                            |
-| Apr 15  | Bag of Words cont.                                |                                            |
-| Apr 17  | n-grams and Grammars                              |                                            |
-| Apr 20  | Review                                            |                                            |
+| Apr 13  | Overview of NLP                                   |                                            |
+| Apr 15  | Bag of Words                                      |                                            |
+| Apr 17  | Bag of Words cont.                                |                                            |
+| Apr 20  | n-grams and Grammars                              |                                            |
 | Apr 22  | Review                                            |                                            |
+| Apr 24  | Review                                            |                                            |
 | Apr 29  | Final Exam in the classroom at 12:00 PM           |                                            |

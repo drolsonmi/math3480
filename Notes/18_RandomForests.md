@@ -28,7 +28,36 @@ One way we can get the best results is to run the data through the different met
 
 The majority-vote classifier is called *hard voting*.
 
+|  Model  | Class A | Class B | Class C |
+| :-----: | :-----: | :-----: | :-----: |
+|    1    |    1    |    0    |    0    |
+|    2    |    1    |    0    |    0    |
+|    3    |    0    |    1    |    0    |
+|    4    |    1    |    0    |    0    |
+|    5    |    1    |    0    |    0    |
+|    6    |    0    |    0    |    1    |
+|    7    |    1    |    0    |    0    |
+|    8    |    1    |    0    |    0    |
+|    9    |    0    |    1    |    0    |
+|   10    |    1    |    0    |    0    |
+|__Total__|  __7__  |  __2__  |  __1__  |
+
 *Soft voting* would be predicting the class with the highest class probability averaged over all the individual classifiers.
+
+|   Model   | Class A | Class B | Class C |
+| :-------: | :-----: | :-----: | :-----: |
+|     1     |  0.80   |  0.15   |  0.05   |
+|     2     |  0.79   |  0.07   |  0.14   |
+|     3     |  0.36   |  0.54   |  0.10   |
+|     4     |  0.71   |  0.11   |  0.18   |
+|     5     |  0.96   |  0.01   |  0.03   |
+|     6     |  0.24   |  0.16   |  0.60   |
+|     7     |  0.93   |  0.05   |  0.02   |
+|     8     |  0.68   |  0.25   |  0.07   |
+|     9     |  0.42   |  0.52   |  0.06   |
+|    10     |  0.74   |  0.09   |  0.17   |
+|__Average__|__0.663__|__0.195__|__0.143__|
+
 
 ### Bagging (Bootstrap AGGregatING)
 To bootstrap (or create a subset of your dataset):

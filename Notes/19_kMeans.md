@@ -13,7 +13,8 @@ MathJax = {
 
 # The kMeans Algorithm
 __Reading__
-* Geron
+* Leskovec: 7.3
+* Brunton: 5.3
 
 ## Clustering Algorithms
 

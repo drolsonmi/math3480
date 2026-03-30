@@ -43,3 +43,5 @@ Goals:
 
 
 ## The Silhouette Index
+
+## Hard Clustering vs. Soft Clustering

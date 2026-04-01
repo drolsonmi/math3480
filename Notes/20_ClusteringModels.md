@@ -12,7 +12,7 @@ MathJax = {
 
 # Clustering Models
 __Reading__
-* Geron
+* Geron, Chapter 9
 
 __Additional Resources__
 * https://www.analyticsvidhya.com/blog/2020/10/quick-guide-to-evaluation-metrics-for-supervised-and-unsupervised-machine-learning/#:~:text=The%20two%20most%20popular%20evaluation,which%20you%20will%20explore%20next.&text=The%20Silhouette%20Coefficient%20is%20defined,points%20in%20the%20same%20cluster.
@@ -40,8 +40,30 @@ Goals:
 2. Maximize distance between clusters
 
 ## WCSS and the Elbow Method
+In Scikit-Learn, the KMeans algorithm uses a metric called __inertia__, which is also known as "Within-Cluster Sum of Squares" or WCSS. 
+* Measure the squared distance from each point to the nearest centroid
+* Take the sum of these squared distances
 
+$$WCSS = \sum_{i=1}^k \sum_{x\in C_i} ||x-\mu_i||^2$$
+
+The WCSS is the metric of the total squared distance from points to their centroids. We want to minimize these distances. Of course, the more centroids we have, the lower these distances will be. But that isn't always better. At some point, adding more centroids is meaningless.
+
+This is where the __Elbow Method__ is useful.
 
 ## The Silhouette Index
+Another 
+
+$$s = \frac{b-a}{\max(a,b)}$$
+
+where
+* $a$ is the mean distance to the other instances in the same cluster (i.e., the mean intra-cluster distance)
+* $b$ is the mean nearest-cluster distance (i.e., the mean distance to the instances of the next closest cluster, defined as the one that minimizes $b$, excluding the instance's own cluster)
+
+A silhouette score will be between +1 and -1.
+* $s\approx +1$ means the instance is well inside its own cluster
+* $s\approx 0$ means the instance is close to the cluster boundary
+* $s\approx -1$ means the instance is likely assigned to the wrong cluster
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098125967/files/assets/mls3_0910.png" width=450 alt="Silhouette diagram example">
 
 ## Hard Clustering vs. Soft Clustering

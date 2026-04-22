@@ -1,3 +1,16 @@
+<head>
+<title>MATH 3480 Final Exam Review</title>
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
 # MATH 3480 Final Review
 The final exam will be on the date indicated in the [MATH 3480 Schedule](../3480_Schedule.md).
 

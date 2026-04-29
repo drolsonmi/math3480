@@ -46,6 +46,7 @@ Below is a summary of the topics we discussed in our class this semester.
     - *CRISP-DM*
 - Data Preprocessing
     - *ETL (Extract, Transform, Load data)*
+        - Load from file, webscraping, APIs
     - *Cleaning Data (Missing Data)*
         - When to drop rows/columns
         - When to fill with a value
@@ -56,12 +57,12 @@ Below is a summary of the topics we discussed in our class this semester.
 - Cross Validation
 - *Feature Scaling (Normalization and Standardization)*
 - *EDA (Exploratory Data Analysis)*
-- *Gradient Descent*
+- *Gradient Descent* :   $w' = w-\eta\nabla L$
 
 ### Regression Models
 - *Purpose and Goal (When do you use Regression models?)*
 - Evaluating Regression Models
-    - MAE, SSE, MSE, RMSE, RMSLE
+    - MAE, SSE, MSE, RMSE, RMSLE, $R^2$
 - *Linear Regression*
 - *Multilinear Regression*
 - Polynomial Regression
@@ -72,18 +73,22 @@ Below is a summary of the topics we discussed in our class this semester.
 - Evaluating Classification Models
     - Accuracy, Precision, Recall, F1-Score
 - *k-Nearest Neighbors*
+    - How do you determine k?
 - *Logistic Regression*
 - Naive Bayes
     - Bayes' Theorem
+    - What does Naive mean in this context?
 - Support Vector Machines
     - Classifiers and Machines
     - Kernels
 - Neural Networks
+    - Activation Functions
     - Traning with Backpropagation (Gradient Descent and the Chain Rule)
     - ANNs, DNNs, and CNNs
 - Decision Trees
     - Entropy and Gini Index
 - Ensemble Models
+    - Hard Classifications vs Soft Classifications
     - Random Forests
 
 ### Clustering Models
@@ -100,6 +105,12 @@ Below is a summary of the topics we discussed in our class this semester.
 - Natural Language Understanding
 - Natural Language Generation
 - Steps of NLP
+    1. Segmentation
+    2. Tokenization
+	3. Stemming
+	4. Lemmatization
+	5. Speech tagging (Parts of sentence structures)
+    6. Named Entity Tagging/Recognition (Specific items or people mentioned)
 - Bag-of-words modeling
 - n-grams
 - Grammars
